@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 #ignore log files
 *.log
+#ignore test file created in local
+test_localsystem.txt

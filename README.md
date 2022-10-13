@@ -10,7 +10,7 @@
 
 2. Create a package using create_package.py
 
-3. Update package name within 
+3. Update package name in setup.cfg
    [options.package_data]
    <package_name>=py.typed 
 
